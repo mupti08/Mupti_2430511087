@@ -6,4 +6,4 @@
 
 <img width="1616" height="744" alt="Screenshot 2026-04-26 144108" src="https://github.com/user-attachments/assets/31c683a5-9b80-486c-8c62-4e2996b3e5ea" /> DATA BERHASIL MASUK KE DATABASE PHPMYADMIN
 
-<img width="1918" height="664" alt="image" src="https://github.com/user-attachments/assets/aec4398d-5ea0-4536-b19e-b200f01b7eb0" /> DATABASE PHP MYADMIN (TABEL % DATA PESANAN)
+<img width="1918" height="664" alt="image" src="https://github.com/user-attachments/assets/aec4398d-5ea0-4536-b19e-b200f01b7eb0" /> DATABASE PHP MYADMIN (TABEL & DATA PESANAN)
